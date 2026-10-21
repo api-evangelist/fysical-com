@@ -1,0 +1,22 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/fysical-com/integrations
+- https://zapier.com/apps/fysical/integrations
+- https://zapier.com/apps/paedae/integrations
+- https://n8n.io/integrations/fysical-com/
+- https://n8n.io/integrations/fysical/
+- https://composio.dev/toolkits/fysical-com
+- https://monid.ai/tools/fysical-com
+checked:
+- https://composio.dev/toolkits/fysical-com
+- https://monid.ai/tools/fysical-com
+- https://n8n.io/integrations/fysical-com/
+- https://n8n.io/integrations/fysical/
+- https://zapier.com/apps/fysical-com/integrations
+- https://zapier.com/apps/fysical/integrations
+- https://zapier.com/apps/paedae/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
